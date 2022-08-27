@@ -1,1 +1,1 @@
-Repositório sobre o aprendizado no ttreinamento <a href="https://onebitcodeblack.club.hotmart.com/">Black</a>
+Repositório sobre o aprendizado no ttreinamento <a href="https://black.onebitcode.com/" target="_blank">Black</a>
