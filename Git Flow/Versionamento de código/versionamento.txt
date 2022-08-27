@@ -1,0 +1,9 @@
+O que são versionadores? eles serevem para controlar a versão do código, permitindo que várias pessoas trabalhem ao mesmo tempo no código 
+
+Tipos de controle de versão:
+Centralizado - é quando eu tenho um servidor central, e a equipe precisa acessar ele para poder baixar ou enviar arquivos para o repositório. É utilizada por equipes que trabalham na empresa ou no mesmo local.
+O principal sistema que trabalha dessa forma é o Subversion (SVN)
+
+Distribuído - cada área de trabalho tem seu próprio “servidor”, ou seja, as operações de check-in e check-out são feitas na própria máquina. Porém diferentemente do centralizado, as áreas de trabalho podem comunicar-se entre si,
+recomenda-se usar um servidor como centro do envio dos arquivos para centralizar o fluxo e evitar ramificações do projeto e a perda do controle sobre o mesmo, geralmente o sistema te da essa opção, oferecendo um servidor remoto para hospedar o projeto.
+Utilizado por pessoas que trabalham remotamente.
